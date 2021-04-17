@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AndroidFaculdadeUnidade2</string>
+    <string name="button_delete_name">Deletar nome</string>
+    <string name="button_register_name">Cadastrar nome</string>
+    <string name="hint_type_name">Digite seu nome</string>
+    <string name="selected_name_label">Nome selecionado:</string>
 </resources>
